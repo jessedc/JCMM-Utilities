@@ -6,6 +6,7 @@
 #ifndef JCMM_Utilities_h
 #define JCMM_Utilities_h
 
+#import "Macros.h"
 #import "JCFloat.h"
 
 #import "NSArray+Access.h"
