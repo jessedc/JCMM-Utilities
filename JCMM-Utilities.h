@@ -19,5 +19,6 @@
 #import "NSString+Utilities.h"
 #import "NSObject+DefaultValues.h"
 #import "UIView+Utilities.h"
+#import "UIImage+JCUtilities.h"
 
 #endif
